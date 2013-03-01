@@ -3,4 +3,6 @@
 .post-meta{font-size:0.85em; margin:-1.3em auto 2em auto;}
 .line{line-height:1.5em;margin-bottom:1em; clear:both;}
 .nav-global,.vcard{position:fixed;width:15%;}
-.the-header,.the-footer{display:none;}
+.gotop{position:fixed;bottom:5%;right:17%;padding:3px;}
+.gotop a:link{color:rgba(46,46,46,0.4);border-bottom:0px;border-bottom:1px dashed rgba(210,97,100,0.5);}
+.gotop a:hover{color:#2d2d2d;border-bottom:0px;border-bottom:1px dashed rgba(210,97,100,1);}
