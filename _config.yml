@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 include: [css,js,images]
 auto: true
 pygments: true
-paginate: 3
+paginate: 10
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
