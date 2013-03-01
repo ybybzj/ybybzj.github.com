@@ -436,7 +436,7 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 1.55em;
+  font-size: 1.888em;
   line-height: 26px;
   margin-top: 26px;
   margin-bottom: 26px;

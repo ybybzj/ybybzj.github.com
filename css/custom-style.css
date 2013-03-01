@@ -1,0 +1,6 @@
+.post-title{border-bottom:1px dashed rgb(42, 136, 238);}
+.post-title a{color:rgb(106, 180, 174);}
+.post-meta{font-size:0.85em; margin:-1.3em auto 2em auto;}
+.line{line-height:1.5em;margin-bottom:1em; clear:both;}
+.nav-global,.vcard{position:fixed;width:15%;}
+

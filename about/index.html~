@@ -1,0 +1,11 @@
+---
+layout: page
+title: "About"
+description: ""
+---
+{% include JB/setup %}
+
+<h3>About Me</h3>
+<div style="border:1px solid blue;margin:auto 2em;width:60%;padding:0.3em">
+Hi, every body! This is an introduction about myself! blah blah blah...
+</div>
